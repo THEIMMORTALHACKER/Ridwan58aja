@@ -1,7 +1,4 @@
 #!/usr/bin/python2
-# coding=utf-8
-
-
 def siapa():
 	os.system('clear')
 	nama = raw_input("\033[1;97mSiapa nama kamu ? \033[1;91m: \033[1;92m")
