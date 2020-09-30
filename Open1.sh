@@ -1,4 +1,4 @@
-#!/system/xbin/bash
+#!/system/xbin/python2
 #AUTHOR:NOTBAD
 #Github:https://github.com/THEIMMORTALHACKER
 #Bersihkan Layar
