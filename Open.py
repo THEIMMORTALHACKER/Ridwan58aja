@@ -1,6 +1,6 @@
 #!/usr/bin/python2
-ASCII character '\xe2
-see http://python.org/dev/peps/pep-0263/ for details
+#ASCII character '\xe2
+#http://python.org/dev/peps/pep-0263/ for details
 
 def siapa():
 	os.system('clear')
