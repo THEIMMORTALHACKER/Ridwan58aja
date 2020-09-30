@@ -1,4 +1,7 @@
 #!/usr/bin/python2
+ASCII character '\xe2
+see http://python.org/dev/peps/pep-0263/ for details
+
 def siapa():
 	os.system('clear')
 	nama = raw_input("\033[1;97mSiapa nama kamu ? \033[1;91m: \033[1;92m")
