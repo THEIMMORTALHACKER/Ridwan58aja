@@ -99,7 +99,4 @@ def login():
 		toket = open('login.txt','r')
 		menu() 
 	except (KeyError,IOError):
-		os.system('clear')
-		print logo
-		print 42*"\033[1;96m="
- os.system('bash')
+		os.system('bash')
