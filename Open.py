@@ -1,6 +1,5 @@
 #!/usr/bin/python2
 #ASCII character '\xe2
-#http://python.org/dev/peps/pep-0263/ for details
 
 def siapa():
 	os.system('clear')
@@ -29,6 +28,4 @@ def loginSC():
 		print"\033[1;96m[!] \033[1;91mSalah!!"
 		time.sleep(1)
                 LoginSC()
-
-def next():
-	os.system('bash')
+	os.system('clear')
