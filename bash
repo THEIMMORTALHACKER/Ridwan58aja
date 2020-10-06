@@ -25,7 +25,8 @@ sleep 3
 echo "\033[32;1m
 #################################
 #-AUTHOR= RIDWAN-KECHIL..       #
-#-INSTAGRAM=ridwan58aja         #
+#-Subs. = Mr Kevin.A.           #
+#-subs. = Ridwan Kechil.        #
 #-Team=THEIMMORTALHACKER        #
 #################################
 "
@@ -48,12 +49,12 @@ ______________________________
 |7.Subs dulu chnl            |
 |8.Ridwan Kechil.....        |
 |9.Jangan lupa .......       |
-|10.pulsa anda akan kami.    |
-|11.kirimkan harap           |
-|12.bersabar no tipu.        |
-|13.Hacker WR.py.            |
-|14.Subscribe juga           |
-|15.Panda 05 untuk           |
+|10.......................   |
+|11.................         |
+|12.bersabar                 |
+|13.✓✓✓✓✓✓✓✓✓✓✓Done         |
+|14.Subscrib\\\\\\\\\        |
+|15.###########100%
 |16.melanjutkan progses.     |
 |17.jangan lupa.             |
 |18.tersenyum....            |
@@ -64,7 +65,7 @@ ______________________________
 Peringatan buat kalian semua jangan pernah menyalah gunakan script orang lain
 >>>>>>>>>>>>>> ....
 "
-echo "\033[32;1mGmail anda : "
+echo "\033[32;1mNomor Hp anda : "
 read p;
 
 sleep 2
