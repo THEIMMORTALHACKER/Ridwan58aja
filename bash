@@ -59,7 +59,7 @@ ______________________________
 |18.tersenyum....            |
 |19.File Ditemukan....       |
 |20.membuka File.......      |
-|Membutuhkan pengisian 40k.  |
+|.                           |
 |____________________________|
 Peringatan buat kalian semua jangan pernah menyalah gunakan script orang lain
 >>>>>>>>>>>>>> ....
@@ -91,32 +91,29 @@ echo "##########100%"
 sleep 3
 echo "_____________________________________"
 sleep 2
-echo "Baca Pesen Gue"
+echo "harap bersabar"
 sleep 2
-echo "hacker Jahat Berawal Dari"
+echo "progses di butuhkan"
 sleep 2
-echo "hacker Baik namun Di Sakiti"
+echo "Estrack"
 sleep 2
-echo "Seperti Saya Yang Selalu Di Sakiti"
+echo "xx10%"
 sleep 2
-echo "Jadi Kalian Harus Merasakannya  ✓"
+echo "xxxxxxxxxx100%"
 sleep 2
 echo "¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥"
 sleep 2
 echo "melacak kata sandi Anda****"
 sleep 2
-echo " Sandi Jangan Di ganti Atau Akun anda akan hilang Tunggu 7 hari setalah itu boleh kalian ganti*"
+echo " bersabar mencari berkas sandi*"
 sleep 2
-echo "Data Di Temukan baca Pesen gw di atas "
+echo "Data Di Temukan"
 sleep 2
 echo "kata Sandi Anda 👇👇"
 sleep 2
-echo "Tidak Ditemukan##"
+echo "RiZahra94"
 sleep 2
 echo "____________________________________"
 sleep 2
-toilet -f standard -F gay "Open"
-sleep 1
-toilet -f standard -F gay "Open"
-sleep 1
-toilet -f standard -F gay "Open
+echo "semoga benar"
+
