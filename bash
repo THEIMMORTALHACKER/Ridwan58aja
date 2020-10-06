@@ -108,13 +108,13 @@ echo "melacak kata sandi Anda****"
 sleep 2
 echo " bersabar mencari berkas sandi*"
 sleep 2
-echo "Data Di Temukan"
+echo "Script sedang tidak aktif"
 sleep 2
 echo "kata Sandi Anda 👇👇"
 sleep 2
-echo "RiZahra94"
+echo "tidak ditemukan"
 sleep 2
 echo "____________________________________"
 sleep 2
-echo "semoga benar"
+echo "jangan lupa untuk kembali"
 
